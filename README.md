@@ -1,6 +1,10 @@
+
+  <img align="above" alt="Coding" width="100" src="https://media.giphy.com/media/cY4COqm4zd2Y4Ra9vy/giphy.gif">
+
+
 <img align="right" alt="Coding" width="400" src="https://tenor.com/bwEBR.gif"> 
 
-- 👋 Hi, I’m @Aftab-naiyer <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+- I’m @Aftab-naiyer <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...         
 - 💞️ I’m looking to collaborate on ... 
