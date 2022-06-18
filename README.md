@@ -1,5 +1,5 @@
 
-  <img align="above" alt="Coding" width="100" src="https://media.giphy.com/media/cY4COqm4zd2Y4Ra9vy/giphy.gif">
+  <img align="above" alt="Coding" width="200" src="https://media.giphy.com/media/f9jfbOcTBLBAFXIABe/giphy.gif">
 
 
 <img align="right" alt="Coding" width="400" src="https://tenor.com/bwEBR.gif"> 
