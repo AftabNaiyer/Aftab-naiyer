@@ -12,7 +12,7 @@
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aftab-naiyer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aftab-khan-9908b71b6/) 
 <h3 align="center">A passionate coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftab-naiyer&label=Profile%20views&color=0e75b6&style=flat" alt="Aftab-naiyer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aftab-naiyer&label=Profile%20views&color=0e75b6&style=flat" alt="aftab-naiyer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Aftab-naiyer" alt="aftab-naiyer" /></a> </p> 
 
@@ -38,6 +38,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aftab-naiyer&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aftab-naiyer"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aftab-naiyer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aftab-naiyer"/>
