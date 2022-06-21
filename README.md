@@ -24,7 +24,7 @@
 <a href="https://auth.geeksforgeeks.org/user/aftabkhan123230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aftabkhan123230" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aftab-naiyer&show_icons=true&locale=en&layout=compact" alt="aftab-naiyer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aftab-naiyer&show_icons=true&locale=en&layout=compact" alt="Aftab-naiyer" /></p>
 
 <!---
 Aftab-naiyer/Aftab-naiyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
