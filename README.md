@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Languages and Tools:
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,cpp,c,docker,mongodb,mysql,py,linux,bootstrap,firebase,flask,react,heroku,kubernetes,aws,tensorflow,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,cpp,c,docker,mongodb,mysql,py,linux,bootstrap,firebase,flask,react,heroku,kubernetes,tensorflow,figma&theme=dark)](https://skills.thijs.gg)
 
 ### My Stats:
 
